@@ -27,6 +27,6 @@ int main(void)
 		}
 		c++;
 	}
-putchar('\n');
+putint('\n');
 return (0);
 }
